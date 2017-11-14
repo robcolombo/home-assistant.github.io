@@ -33,7 +33,7 @@ $ sudo pip3 install --upgrade virtualenv
 ## {% linkable_title Step 2: Setup virtualenv %}
 
 ```bash
-$ python3 -m venv $HOME/homeassistant
+$ virtualenv ~/homeassistant
 ```
 
 ## {% linkable_title Step 3: Install or update Home Assistant %}
